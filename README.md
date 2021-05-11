@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![crypto_wallet](https://user-images.githubusercontent.com/75200754/117759360-74620300-b245-11eb-8f4e-c1ac6dfe1dce.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
