@@ -15,7 +15,7 @@ class CustomAppBar extends StatelessWidget {
       elevation: 5,
       backgroundColor: Colors.white,
       title: Text(
-        title!+" Wallet",
+       isWalletsDetails!? title!+" Wallet" : title!,
         style: TextStyle(
           fontSize: 28,
           fontWeight: FontWeight.bold,
